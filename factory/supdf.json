@@ -1,0 +1,9 @@
+{
+	"name": "supdf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a4ae8a6-bb35-4d88-bba3-72468f180e55",
+		"tenantId": "bb7ed293-2674-4aef-a74a-dbf340a8ab33"
+	}
+}
